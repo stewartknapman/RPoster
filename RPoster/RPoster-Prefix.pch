@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'RPoster' target in the 'RPoster' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
